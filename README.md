@@ -75,9 +75,9 @@ https://www.linkedin.com/in/prathmesh-ingole-28028a215
 <a href="https://www.linkedin.com/in/prathmesh-ingole-28028a215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162584456-c37e4f8d-e3a4-4bbc-987f-3200646170e5.png" height="35"/></a>
 <a href="https://www.instagram.com/prathaml._.l/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162584660-71fbaabc-1ff7-4f11-9b8f-659b84887c55.png" height="35"/></a>
 <a ><img align="center" src="https://user-images.githubusercontent.com/91962775/162584727-cb2bd9a9-d763-40fd-80c6-ff801a40db8d.png" height="35" alt="pratham111ingole@gmail.com" /></a>
+</p>
  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IORD1&layout=compact&show_icons=true&theme=radical)](https://github.com/IORD1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IORD1&layout=compact)](https://github.com/IORD1/github-readme-stats)
- <br />
-[![Pratham's Github stats](https://github-readme-stats.vercel.app/api?username=IORD1)](https://github.com/IORD1/github-readme-stats)
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IORD1&show_icons=true&theme=radical)
