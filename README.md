@@ -62,11 +62,13 @@ https://www.linkedin.com/in/prathmesh-ingole-28028a215
  </p>
  
  <br   />
+
  
  - 🌱  I’m currently learning **Data Structures and Algorithm** , **React** and **Redux**
  - 🎯  I'm aspring to be a good Web Developer
  - ✉️ Connect with me at **pratham111ingole@gmail.com** <img align="center" src="https://user-images.githubusercontent.com/91962775/162584727-cb2bd9a9-d763-40fd-80c6-ff801a40db8d.png" height="15"/> 
-<br />
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IORD1&layout=compact&show_icons=true&theme=radical" />
 
 **Find me Around the Web 🌎**
 <br />
@@ -76,8 +78,18 @@ https://www.linkedin.com/in/prathmesh-ingole-28028a215
 <a href="https://www.instagram.com/prathaml._.l/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162584660-71fbaabc-1ff7-4f11-9b8f-659b84887c55.png" height="35"/></a>
 <a ><img align="center" src="https://user-images.githubusercontent.com/91962775/162584727-cb2bd9a9-d763-40fd-80c6-ff801a40db8d.png" height="35" alt="pratham111ingole@gmail.com" /></a>
 </p>
+
+
+<br    />
+
+<div >
+ <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=IORD1&theme=radical&date_format=j%20M%5B%20Y%5D" />
+ <br   />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=IORD1&show_icons=true&theme=radical" />
+<!--  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IORD1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IORD1&show_icons=true&theme=radical) -->4
  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IORD1&layout=compact&show_icons=true&theme=radical)](https://github.com/IORD1/github-readme-stats)
-
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IORD1&show_icons=true&theme=radical)
+ 
+</div>
