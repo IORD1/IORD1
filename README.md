@@ -8,7 +8,7 @@
 
  <br />
 
-I am currently a 3nd year Computer engineering Student at Internation Institue of Information Technology(I²IT) 
+I am currently a 3rd year Computer engineering Student at Internation Institue of Information Technology(I²IT) 
 <br />
 and developing web skills and projects on same.
  
