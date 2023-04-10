@@ -1,4 +1,4 @@
-# Hello !, I'm Prathmesh Ingole 🙌 👨‍💻
+# Hello Fellow programmer 🙌👨‍💻
 <br />
 <img src="https://user-images.githubusercontent.com/91962775/162583011-f8623777-6795-4ac7-ad32-d1ed75f6b7ba.gif" alt="banner for prathmesh ingole readme">
 
@@ -10,7 +10,11 @@
 
 I am currently a 3rd year Computer engineering Student at Internation Institue of Information Technology(I²IT) 
 <br />
-and developing web skills and projects on same.
+a Web Intern at IOFT Mumbai,<br />
+a Developer who runs on Coffee & Creativity,<br />
+and also a animephile
+<img height="20px" src="https://user-images.githubusercontent.com/91962775/230828909-43bf753c-ae52-4806-a8a5-06ecc08c467e.png" alt="banner for prathmesh ingole readme">
+
  
  <br    />
  
