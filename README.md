@@ -62,3 +62,7 @@
 <a href="https://github.com/iord1/convoychat">
   <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iord1&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+<br />
+<a href="https://git.io/streak-stats">
+  <img height=230 align="center" src="https://streak-stats.demolab.com?user=IORD1&theme=radical&fire=EBD052" />
+</a>
