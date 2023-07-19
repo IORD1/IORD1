@@ -57,10 +57,10 @@
  <br />
 
  <a href="https://github.com/iord1/github-readme-stats">
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=iord1&rank_icon=github&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iord1&rank_icon=github&theme=radical" />
 </a>
 <a href="https://github.com/iord1/convoychat">
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iord1&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iord1&exclude_repo=DSBDA-practicals,DSBDA-scripts-rating,ml_with_python&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <br />
 <a href="https://git.io/streak-stats">
