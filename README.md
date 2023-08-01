@@ -1,11 +1,13 @@
 # Hello, Fellow programmer 🙌👨‍💻
 <br />
-<img src="https://user-images.githubusercontent.com/91962775/162583011-f8623777-6795-4ac7-ad32-d1ed75f6b7ba.gif" alt="banner for prathmesh ingole readme">
+<img src="https://github.com/IORD1/IORD1/assets/91962775/6e21533a-b500-4564-976d-f01942cccef9" alt="banner for prathmesh ingole readme">
+
+<!-- <img src="https://user-images.githubusercontent.com/91962775/162583011-f8623777-6795-4ac7-ad32-d1ed75f6b7ba.gif" alt="banner for prathmesh ingole readme"> -->
 
 <!-- ------------------------------------------------------------------------------------------------------------------ -->
  <br />
  <h1 align="center">Hi 👋, I'm Prathmesh Ingole</h1>
-<h5 align="left">I am currently a 3rd year Computer engineering Student at Internation Institue of Information Technology(I²IT)
+<h5 align="left">I am currently a 4th year Computer engineering Student at Internation Institue of Information Technology(I²IT)
  <br /> 
  a Web Intern at IOFT Mumbai,🏢<br />
  a Developer who runs on Coffee & Creativity,<img height="20px" src="https://user-images.githubusercontent.com/91962775/231762034-7a3af8ce-3db9-421b-ad37-4b4d016f36c8.png" alt="">
@@ -54,7 +56,14 @@
 </p>
 
 
+
+<br />
+<a href="https://git.io/streak-stats">
+  <img height=230 align="center" src="https://streak-stats.demolab.com?user=IORD1&theme=radical&fire=EBD052" />
+</a>
  <br />
+ <br />
+
 
  <a href="https://github.com/iord1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iord1&rank_icon=github&theme=radical" />
@@ -63,6 +72,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iord1&exclude_repo=DSBDA-practicals,DSBDA-scripts-rating,ml_with_python&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <br />
-<a href="https://git.io/streak-stats">
-  <img height=230 align="center" src="https://streak-stats.demolab.com?user=IORD1&theme=radical&fire=EBD052" />
-</a>
+<br />
+
+<img src="https://github.com/IORD1/IORD1/assets/91962775/ac53f080-344a-45db-91e4-08468015d916" alt="banner for prathmesh ingole readme">
