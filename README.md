@@ -30,7 +30,7 @@
 
 - 📫 How to reach me *pratham111ingole@gmail.com*
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vpRLoC3oC-tfAggIVs20iKPBtQ4NnhuNvI3aAySNuK0/edit](https://docs.google.com/document/d/1vpRLoC3oC-tfAggIVs20iKPBtQ4NnhuNvI3aAySNuK0/edit)
+- 📄 <a href="https://www.canva.com/design/DAFpGuF5zB0/sUXVhtHMUbR85b68o_rICw/edit?utm_content=DAFpGuF5zB0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">More about me here</a> 
 
 - ⚡ Fun fact *I love to watch anime and Hike*
 
