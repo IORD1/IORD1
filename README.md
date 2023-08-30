@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iord1&theme=radical&no-frame=true" alt="iord1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pratham_ii" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_ii?logo=twitter&style=for-the-badge" alt="pratham_ii" /></a> </p>
+<p align="left"> <a href="https://x.com/pratham_ii" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_ii?logo=x&style=for-the-badge" alt="pratham_ii" /></a> </p>
 
 - 🔭 I’m currently working on *Animephile and MongoDB database*
 
@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://codepen.io/prathampen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prathampen" height="30" width="40" /></a>
 <a href="https://dev.to/iord1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iord1" height="30" width="40" /></a>
-<a href="https://twitter.com/pratham_ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham_ii" height="30" width="40" /></a>
+<a href="https://x.com/pratham_ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham_ii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathmesh-ingole-28028a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh-ingole-28028a215" height="30" width="40" /></a>
 <a href="https://kaggle.com/pratham88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratham88" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/prathmesh.ingole.796/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prathmesh.ingole.796/" height="30" width="40" /></a>
