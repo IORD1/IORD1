@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning *NextJs and*
 
-- 👨‍💻 Visit my Profile :  [prathmeshingole.co](prathmeshingole.co)
+- 👨‍💻 Visit my Portfolio :  [prathmeshingole.co](prathmeshingole.co)
 
 - 💬 Ask me about *ReactJs, Sql and Js*
 
