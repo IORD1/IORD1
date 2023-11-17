@@ -67,3 +67,9 @@
 #
 
 <img src="https://github.com/IORD1/IORD1/assets/91962775/ac53f080-344a-45db-91e4-08468015d916" alt="banner for prathmesh ingole readme">
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@iord1"><img src="https://holopin.me/iord1" alt="@iord1 Holopin board"></a></p>
+</details>
