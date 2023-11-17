@@ -1,4 +1,4 @@
-# Hello, Fellow programmer 🙌👨‍💻
+# नमस्ते, Fellow programmer 🙌👨‍💻
 <br />
 <img src="https://github.com/IORD1/IORD1/assets/91962775/6e21533a-b500-4564-976d-f01942cccef9" alt="banner for prathmesh ingole readme">
 
@@ -61,15 +61,31 @@
 <br />
 <br />
 
-#
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iord1&theme=radical&no-frame=true" alt="iord1" /></a> </p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iord's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iord1&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<br />
+
+<br />
 
 #
-
-<img src="https://github.com/IORD1/IORD1/assets/91962775/ac53f080-344a-45db-91e4-08468015d916" alt="banner for prathmesh ingole readme">
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@iord1"><img src="https://holopin.me/iord1" alt="@iord1 Holopin board"></a></p>
 </details>
+
+<details> 
+  <summary><h2>🏆 My Github Trophies</h2></summary>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iord1&theme=radical&no-frame=true" alt="iord1" /></a> </p>
+</details>
+
+#
+
+<img src="https://github.com/IORD1/IORD1/assets/91962775/ac53f080-344a-45db-91e4-08468015d916" alt="banner for prathmesh ingole readme">
+
+<br />
+<br />
+
+
