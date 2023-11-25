@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://x.com/pratham_ii" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_ii?logo=x&style=for-the-badge" alt="pratham_ii" /></a> </p>
 
-- 🔭 I’m currently working on *Animephile and MongoDB database*
+- 🔭 I’m currently working on *NESS and my Portfolio*
 
 - 🌱 I’m currently learning *NextJs and*
 
