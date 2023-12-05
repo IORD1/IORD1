@@ -75,11 +75,11 @@ npx iord
 
 #
 
-<details> 
+
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@iord1"><img src="https://holopin.me/iord1" alt="@iord1 Holopin board"></a></p>
-</details>
+
 
 <details> 
   <summary><h2>🏆 My Github Trophies</h2></summary>
