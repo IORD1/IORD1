@@ -6,7 +6,6 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------ -->
  <br />
- <h1 align="center">Hi 👋, I'm Prathmesh Ingole</h1>
 <h5 align="left">I am currently a 4th year Computer engineering Student at Internation Institue of Information Technology(I²IT)
  <br /> 
  a Web Intern at IOFT Mumbai,🏢<br />
