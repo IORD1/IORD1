@@ -20,9 +20,9 @@
 
 - 🔭 I’m currently working on *NESS and my Portfolio*
 
-- 🌱 I’m currently learning *NextJs and*
+- 🌱 I’m currently learning *NextJs and React Native*
 
-- 👨‍💻 Visit my Portfolio :  [prathmeshingole.co](prathmeshingole.co)
+- 👨‍💻 Visit my Portfolio :  [prathamingole.vercel.app](prathamingole.vercel.app)
 
 - 💬 Ask me about *ReactJs, Sql and Js*
 
